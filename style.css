@@ -20,5 +20,5 @@ background: black;
 li{
  float:left;
   width:auto;
-  border-right:2px solid red
+  border-right:2px solid red;
 }
